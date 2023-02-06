@@ -323,6 +323,10 @@ pre { width: 52.5%; //, pre code, p pre code are both selectors in tufte.css - t
 
 .full-width { .sidenote, .sidenote-number, .marginnote { display: none; } }
 
+span.newthought { font-variant: small-caps;
+                  font-size: 1.2em;
+                  letter-spacing: 0.05rem; }
+
 input.margin-toggle { display: none; }
 
 label.sidenote-number { display: inline; }
