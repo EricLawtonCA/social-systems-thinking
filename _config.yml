@@ -1,0 +1,18 @@
+title: Tools for Social Systems Thinking
+subtitle: An incremental workbook 
+author: Eric Lawton
+description: Developing effective tools for thinking about social systems. 
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+timezone: America/New_York
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'UploadToGithub.Rakefile', 'README.md']
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+git:
+  branch: main
+
