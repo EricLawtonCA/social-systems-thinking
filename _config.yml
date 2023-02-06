@@ -1,0 +1,12 @@
+name: Eric Lawton
+title: Tools for Social Systems Thinking
+description: Developing effective tools for thinking about social systems. 
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+github: [metadata]
+theme: jekyll-theme-tufte
+plugins:
+  - jekyll-theme-tufte
+  - jekyll-seo-tag
+
+
