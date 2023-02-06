@@ -1,8 +1,8 @@
 ---
 layout: page
-nav_title: Layouts
-title: Available Page Layouts
+nav_title: Test Tufte
+title: A Tufte page
 ---
 
-# Heading
-text
+# Example tufte page, I hope
+Lorem ipset dixit
