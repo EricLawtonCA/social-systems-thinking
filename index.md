@@ -1,9 +1,3 @@
----
-layout: page
-title: workbook
-# Note that this index page uses a full-width layout!
----
-
 #  {{ site.title | default: site.github.repository_name }}
 ## {{ site.description | default: site.github.repository_name }}
 
